@@ -9,11 +9,11 @@ Code is based on the official implementation for image classification in torchvi
 |   name    | epochs | acc@1 (last) |                                              url                                               |
 | :-------: | :----: | :----------: | :--------------------------------------------------------------------------------------------: |
 | ResNet-18 |   50   |    59.57     | [model](https://huggingface.co/zeyuanyin/tiny-imagenet/resolve/main/rn18_50ep/checkpoint.pth)  |
-| ResNet-18 |  100   |    60.32     | [model](https://huggingface.co/zeyuanyin/tiny-imagenet/resolve/main/rn18_100ep/checkpoint.pth) |
-| ResNet-18 |  200   |    60.60     | [model](https://huggingface.co/zeyuanyin/tiny-imagenet/resolve/main/rn18_200ep/checkpoint.pth) |
-| ResNet-50 |   50   |    62.78     | [model](https://huggingface.co/zeyuanyin/tiny-imagenet/resolve/main/rn50_50ep/checkpoint.pth)  |
-| ResNet-50 |  100   |              | [model](https://huggingface.co/zeyuanyin/tiny-imagenet/resolve/main/rn50_100ep/checkpoint.pth) |
-| ResNet-50 |  200   |              | [model](https://huggingface.co/zeyuanyin/tiny-imagenet/resolve/main/rn50_200ep/checkpoint.pth) |
+| ResNet-18 |  100   |    60.23     | [model](https://huggingface.co/zeyuanyin/tiny-imagenet/resolve/main/rn18_100ep/checkpoint.pth) |
+| ResNet-18 |  200   |    60.50     | [model](https://huggingface.co/zeyuanyin/tiny-imagenet/resolve/main/rn18_200ep/checkpoint.pth) |
+| ResNet-50 |   50   |    62.77     | [model](https://huggingface.co/zeyuanyin/tiny-imagenet/resolve/main/rn50_50ep/checkpoint.pth)  |
+| ResNet-50 |  100   |    63.19     | [model](https://huggingface.co/zeyuanyin/tiny-imagenet/resolve/main/rn50_100ep/checkpoint.pth) |
+| ResNet-50 |  200   |    63.45     | [model](https://huggingface.co/zeyuanyin/tiny-imagenet/resolve/main/rn50_200ep/checkpoint.pth) |
 
 ## Training
 
