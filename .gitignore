@@ -4,3 +4,4 @@ save/
 wandb/
 *.pth
 *.pt
+*yzy*
